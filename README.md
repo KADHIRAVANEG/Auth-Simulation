@@ -105,7 +105,7 @@ Auth-Simulation/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JOKER-53/Auth-Simulation.git
+   git clone https://github.com/KADHIRAVANEG/Auth-Simulation.git
    cd Auth-Simulation
    ```
 
@@ -222,9 +222,9 @@ All 12 unit and integration tests verify:
 
 ## Author & Attribution
 
-- **Developer**: [JOKER-53 (alias Kadhiravan EG)](https://github.com/JOKER-53)
+- **Developer**: [KADHIRAVANEG](https://github.com/KADHIRAVANEG)
 - **Email**: `kadhiravan226@gmail.com`
-- **Repository**: [https://github.com/JOKER-53/Auth-Simulation](https://github.com/JOKER-53/Auth-Simulation)
+- **Repository**: [https://github.com/KADHIRAVANEG/Auth-Simulation](https://github.com/KADHIRAVANEG/Auth-Simulation)
 - **Live Demo**: [https://joker-53.github.io/Auth-Simulation/](https://joker-53.github.io/Auth-Simulation/)
 
 ---
